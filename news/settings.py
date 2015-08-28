@@ -23,12 +23,8 @@ DOWNLOAD_DELAY = 1
 COOKIES_ENABLED=False
 LOG_LEVEL = 'INFO'
 # start MySQL database configure setting
-#MYSQL_HOST = '192.168.210.167'
-#MYSQL_DBNAME = 'db_hsb_grab'
-#MYSQL_USER = 'yunneng'
-#MYSQL_PASSWD = 'yunneng999'
-# end of MySQL database configure setting  rdsi0814385qufqu31to.mysql.rds.aliyuncs.com
-MYSQL_HOST = 'rdsi0814385qufqu31to.mysql.rds.aliyuncs.com'
+MYSQL_HOST = '192.168.210.167'
 MYSQL_DBNAME = 'db_hsb_grab'
-MYSQL_USER = 'hsb_r'
-MYSQL_PASSWD = '5LuSvzXGl0'
+MYSQL_USER = 'yunneng'
+MYSQL_PASSWD = 'yunneng999'
+# end of MySQL database configure setting  rdsi0814385qufqu31to.mysql.rds.aliyuncs.com
