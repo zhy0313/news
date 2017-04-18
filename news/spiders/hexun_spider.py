@@ -47,7 +47,7 @@ class HexunSpider(CrawlSpider):
         for con in range(len(list)):
             if con != len(list)-1:
                 content += list[con]
-        item['info'] = ""
+        item['info'] = "111"
         item['content'] = content
         item['source'] = 'hexun'
         item['source_type'] = 2
